@@ -2,6 +2,7 @@
 /**
  * main - Entry point
  *
+ * main - Print 0 to 9. 
  * Return: 0 (Success)
  */
 int main(void)

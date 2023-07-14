@@ -2,6 +2,7 @@
 /**
  * main - Entry point
  *
+ * main - Print a to z ecept q and e. 
  * Return: 0 (Success)
  */
 int main(void)
