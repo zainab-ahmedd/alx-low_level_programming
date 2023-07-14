@@ -2,13 +2,14 @@
 /**
  * main - Entry point
  *
- * main - Print a to z. 
+ * main - Print a to z
  * Return: 0 (Success)
  */
 int main(void)
-{	
+{
 	char ch = 'a';
-	while ( ch <= 'z' )
+
+	while (ch <= 'z')
 	{
 		putchar(ch);
 		ch++;

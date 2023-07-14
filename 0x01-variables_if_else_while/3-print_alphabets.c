@@ -2,18 +2,19 @@
 /**
  * main - Entry point
  *
- * main - Print a A to z Z. 
+ * main - Print a A to z Z.
  * Return: 0 (Success)
  */
 int main(void)
 {
-	char ch = 'a' , CH = 'A';
-	while ( ch <= 'z' )
+	char ch = 'a', CH = 'A';
+
+	while (ch <= 'z')
 	{
 		putchar(ch);
-	       ch++;	
+	       ch++;
 	}
-	while ( CH <= 'Z')
+	while (CH <= 'Z')
 	{
 		putchar(CH);
 		CH++;
