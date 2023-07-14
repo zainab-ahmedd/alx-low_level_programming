@@ -2,9 +2,12 @@
 #include <time.h>
 #include <stdio.h>
 /**
+ * main - Entry point
+ *
+ * Return: 0 (Success)
  * more headers goes there
+ * main - Determines he last digit
  * betty style doc for function main goes there
- * main - Determines The last digit.
 */
 int main(void)
 {
