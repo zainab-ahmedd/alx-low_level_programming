@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include "main.h"
 /**
- * main - Entry point
+ * print_alphabet - Entry point
  *
- * main - Print a to z
+ * print_alphabet - Print a to z
  * Return: 0 (Success)
  */
 
