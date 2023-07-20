@@ -1,9 +1,10 @@
 #include <stdio.h>
 #include "main.h"
 /**
- * islower - Entry point
+ * _islower - Entry point
  *
- * islower - check lowercase
+ * _islower - check lowercase
+ * @c: is the char to be checked
  * Return: 0 (Success)
  */
 int _islower(int c)
