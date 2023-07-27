@@ -15,12 +15,11 @@ char *leet(char *c)
 
 	for (i = 0; c[i] != '\0'; i++)
 	{
-		j = 0;
-		for (; j < 10; j++)
+		for (j = 0; j < 10; j++)
 		{
 			if (string[j] == c[i])
 			{
-				c[i] == num[j];
+				c[i] = num[j];
 			}
 		}
 	}
