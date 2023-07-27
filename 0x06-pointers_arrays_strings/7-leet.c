@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include "main.h"
 /**
- * *leet - Entry point
+ * leet - Entry point
  *
- * *leet - encodes a string
+ * leet - encodes a string
  * @c: string to be leet
  * Return: n (Success)
 */
