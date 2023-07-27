@@ -5,12 +5,11 @@
  *
  * *leet - encodes a string
  * @c: string to be leet
- * Return: 0 (Success)
+ * Return: n (Success)
 */
 char *leet(char *c)
 {
 	int i, j;
-
 	char string[] = "aAeEoOtTlL";
 	char num[] = "4433007711";
 
