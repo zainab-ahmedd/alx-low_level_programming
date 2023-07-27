@@ -4,6 +4,7 @@
  * *string_toupper - Entry point
  *
  * *string_toupper - changes all lowercase letters of a string to uppercase
+ * @c: charcter of array
  * Return: 0 (Success)
 */
 char *string_toupper(char *c)
