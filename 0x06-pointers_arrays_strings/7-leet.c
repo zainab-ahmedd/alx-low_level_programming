@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include "main.h"
 /**
- * leet - Entry point
+ * *leet - Entry point
  *
- * leet - encodes a string
+ * *leet - encodes a string
  * @c: string to be leet
  * Return: n (Success)
 */
@@ -18,7 +18,7 @@ char *leet(char *c)
 		j = 0;
 		for (; j < 10; j++)
 		{
-			if (c[i] == string[j])
+			if (string[j] == c[i])
 			{
 				c[i] == num[j];
 			}
