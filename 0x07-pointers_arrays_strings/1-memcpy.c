@@ -5,7 +5,7 @@
  *
  * *_memcpy - copies memory area.
  * @n: bytes numbers
- * @scr: from byte
+ * @src: from byte
  * @dest: to byte
  * Return: 0 (Success)
 */
