@@ -5,8 +5,8 @@
  *
  * *_memcpy - copies memory area.
  * @n: bytes
- * @scr: from
- * @dest: to
+ * @scr: from byte
+ * @dest: to byte
  * Return: 0 (Success)
 */
 char *_memcpy(char *dest, char *src, unsigned int n)
