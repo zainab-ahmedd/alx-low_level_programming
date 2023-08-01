@@ -4,7 +4,7 @@
  * *_memcpy - Entry point
  *
  * *_memcpy - copies memory area.
- * @n: bytes
+ * @n: bytes numbers
  * @scr: from byte
  * @dest: to byte
  * Return: 0 (Success)
